@@ -1,0 +1,23 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "test node app",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/matthewbillienyc/node-app.git"
+  },
+  "author": "matthew billie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewbillienyc/node-app/issues"
+  },
+  "homepage": "https://github.com/matthewbillienyc/node-app#readme"
+}
